@@ -1,7 +1,7 @@
 https://github.com/infosergio2021/PatronesRDW.git
 
 
-
+132
 
 @media (min-width: 768px){
     .dos-columnas{
