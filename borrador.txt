@@ -1,0 +1,12 @@
+https://github.com/infosergio2021/PatronesRDW.git
+
+
+
+
+@media (min-width: 768px){
+    .dos-columnas{
+      display: grid;
+      grid-template-columns: repeat(2,50%);
+      gap: 2rem;
+  }
+}
